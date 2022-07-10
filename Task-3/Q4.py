@@ -28,3 +28,4 @@ plt.show()
 
 #  Printing the score of the Linear Regression
 print("Score of the ML algo: ",lr.score(x_test.values.reshape(-1,1),y_test.values))
+
